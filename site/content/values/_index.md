@@ -4,32 +4,31 @@ image: /img/values-coy-fish.jpg
 values:
   - heading: "Upholstery Value"
     text: >
-      voluptionse latur sitiae dolessi est volestemque commosa as signe
-      aut parist aut dollo enim qui voluptate ma dolestendit peritin re 
-      plis aut quas inctum laceat est volestemque commosa as cus endigna
-      Quianimin porecus evelectur, cum que nis nust voloribus. The name of
-      the the place it was grown to whatever degree available.
+      Upholstery is an artisan work. Jack skills allow to salvage
+      furniture rather than creating new pieces from scratch. There is
+      a long tradition of upholsterer and Jack is one of them. He has
+      provided his craft to countless domestic and commercial interiors.
+      With the combination of modern tools and traditional craft.   
     imageUrl: "/img/values-upholstery.jpg"
   - heading: "Practice"
     text: >
-      voluptionse latur sitiae dolessi est volestemque commosa as signe
-      aut parist aut dollo enim qui voluptate ma dolestendit peritin re 
-      plis aut quas inctum laceat est volestemque commosa as cus endigna
-      Quianimin porecus evelectur, cum que nis nust voloribus. The name of
-      the the place it was grown to whatever degree available.
+      Upholstery is an artisan work. Jack skills allow to salvage
+      furniture rather than creating new pieces from scratch. There is
+      a long tradition of upholsterer and Jack is one of them. He has
+      provided his craft to countless domestic and commercial interiors.
+      With the combination of modern tools and traditional craft.
     imageUrl: "/img/about-sewer-values.jpg"
   - heading: "Sustainable upholstery"
     text: >
-      voluptionse latur sitiae dolessi est volestemque commosa as signe
-      aut parist aut dollo enim qui voluptate ma dolestendit peritin re 
-      plis aut quas inctum laceat est volestemque commosa as cus endigna
-      Quianimin porecus evelectur, cum que nis nust voloribus.
+      Bringing new life into your existing furniture is the right step into
+      a more sustainable living space. Our goal is to offer furnishings and 
+      fittings without wasting the value and character of existing furniture.
+      Why through away your living space when we will enlighten it to a new
+      look, this is a more natural and eco-friendly way of life. We believe 
+      your furniture is too good to waste and can prove it to you.
     imageUrl: "/img/values-sustainable.jpg"
   - heading: "Jack Cable"
     text: >
-      Jack Cable Aque venitatiusda cum, voluptionse latur sitiae dolessi 
-      aut parist aut dollo enim qui voluptate ma dolestendit peritin re 
-      plis aut quas inctum laceat est volestemque commosa as cus endigna
-      Quianimin porecus evelectur, cum que nis nust voloribus.
+      Jack Cable ...
     #imageUrl: "/img/about-jack-cable.jpg"
 ---
