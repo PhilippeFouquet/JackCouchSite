@@ -1,6 +1,6 @@
 ---
 title: "The Couch that Jack Built"
-subtitle: For Fine Upholstery call 0419 214 348
+subtitle: For Fine Upholstery call Jack on 0419 214 348
 image: /img/home-pink-couch.jpg
 blurb:
     heading: Why Jack?
