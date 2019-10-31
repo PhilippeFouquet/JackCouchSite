@@ -29,10 +29,10 @@ values:
     imageUrl: "/img/values-sustainable.jpg"
   - heading: "Jack Cable"
     text: >
-      Jack Cable started Upholstery business down in Blackwattle Bay Studios
+      Jack Cable started his upholstery business down in Blackwattle Bay Studios
       in 1995. He is still in Glebe around broadway area where he relocated in
-      2000. Over 30 years Jack has designed and restored entired houses from 
-      lounge room to bedrooms; Jack loves doing soft furnishings and design new
-      cushions.
+      2000. Over 30 years Jack has fitted entire houses from lounge room to 
+      bedrooms and worked with interior designers; Jack loves doing soft furnishings
+      and design new cushions.
     #imageUrl: "/img/about-jack-cable.jpg"
 ---
