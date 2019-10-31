@@ -14,8 +14,7 @@ is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-- Tel/Fax: 9566 1079 
-- Mob: 0419 214 348
+- Mobile: 0419 214 348
 
 
 You can also use the form below for any inquiries about a quote or
