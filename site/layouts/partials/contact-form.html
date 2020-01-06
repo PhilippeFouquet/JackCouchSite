@@ -2,6 +2,13 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Drop us a line below</h4>
 
+  <!-- A little help for the Netlify post-processing bots -->
+  <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+    <input type="text" name="name" />
+    <input type="email" name="email" />
+    <textarea name="message"></textarea>
+  </form>
+
   <form action="">
     <div class="flex-l mhn1-l">
       <!-- Name -->
