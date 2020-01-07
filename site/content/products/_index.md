@@ -32,7 +32,7 @@ pricing:
         - New fabric
         - 
       plan: Couch
-      price: '500'
+      price: ''
     - description: 'Building new sofa fitted to house'
       items:
         - 50 hours work
@@ -40,7 +40,7 @@ pricing:
         - Custom design drawing
         - 
       plan: Sofa
-      price: '2000'
+      price: ''
     - description: Dinning chair table 10 chairs
       items:
         - 40 hours work
@@ -48,7 +48,7 @@ pricing:
         - Unlimited patterns
         - 
       plan: Custom
-      price: '?'
+      price: ''
 ---
 
 

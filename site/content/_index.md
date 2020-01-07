@@ -4,10 +4,10 @@ subtitle: For Fine Upholstery call Jack on 0419 214 348
 image: /img/home-pink-couch.jpg
 blurb:
     heading: Why Jack?
-    text: "Jack Cable offers unique upholstery design for everyone who aspires to an unique couch. Our attention to detail will ensure that your furniture is of the highest quality and will do everything in our power to assure your happiness."
+    text: "Jack Cable offers unique upholstery design for everyone who aspires to an unique couch. Our attention to detail will ensure that your furniture is of the highest quality and will do everything in our power to assure your happiness. Let us create an inviting space with soft furnishings. All cushions and throw rugs available; with different sizes, shapes and textured cushions you will create a layered look for indoor living space and outdoor zone."
 intro:
     heading: "What we offer"
-    text: "TheCouchThatJackBuilt is the ultimate spot in Glebe for couch and chair lovers; we offer fine upholstery service; we may start discussing your ideas and giving advices on the best way to renovate your couch, chairs and any custom design."
+    text: "TheCouchThatJackBuilt is the ultimate spot in Glebe for couch and chair lovers; we offer fine upholstery service; we may start discussing your ideas and giving advices on the best way to renovate your couch, chairs and create a cohesive look. A great way to start is layering new cushions that will enhance a contemporary look."
 products:
     - image: img/illustration-couch.svg
       text: "Confort and sylish couches are around the corner from Glebe Point road. Jack designs each couch with you to ensure an unique experience; you may have an existing couch with character that needs a finer fabric to bring it back to its glory days. There is no fit for all design, we try to find the right balance with most unique designer styles so that it will bring a new twist to our living room."
