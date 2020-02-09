@@ -6,6 +6,7 @@
   <form name="contact" netlify netlify-honeypot="bot-field" hidden>
     <input type="text" name="name" />
     <input type="email" name="email" />
+    <input type="file" name="file" />
     <textarea name="message"></textarea>
   </form>
 
@@ -24,6 +25,13 @@
         <fieldset>
           <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
           <label for="email">Email</label>
+        </fieldset>
+      </div>
+      <!-- File -->
+      <div class="ph1-l w-50-l">
+        <fieldset>
+          <input type="file" id="file" name="file" placeholder="File" class="w-100 mb2">
+          <label for="file">File</label>
         </fieldset>
       </div>
     </div>

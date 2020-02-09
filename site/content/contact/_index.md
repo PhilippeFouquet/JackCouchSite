@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "24a Grose Street, Glebe, NSW, 2037"
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 5PM We’re closed on Sundays"
+    text: "Mon-Fri: 7.30- 4.00, Sat 9-1pm or by appointment"
 ---
 
 We’d love to get in touch with you and hear your ideas and
