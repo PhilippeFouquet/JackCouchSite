@@ -1,7 +1,7 @@
 ---
-title: "Georgous waiting chair"
+title: "Gorgous waiting chair"
 date: 2019-10-02T15:04:10.000Z
-description: The georgous waiting chair, has been completed this year in october.
+description: The gorgous waiting chair, has been completed this year in october.
 image: /img/blog-2019-october-ottoman.gif
 ---
 
