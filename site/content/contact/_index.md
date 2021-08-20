@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/red-couch-logo.svg"
 contact_entries:
   - heading: Location
-    text: "24a Grose Street, Glebe, NSW, 2037"
+    text: "458-460 Parramatta Road, Petersham, NSW, 2049 (Parking around the back)"
   - heading: Working hours
     text: "Mon-Fri: 7.30- 4.00, Sat 9-1pm or by appointment"
 ---
